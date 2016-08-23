@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: d211612968721425f89d6e15daf1eb1b
+timeCreated: 1471942140
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Let's Cook Jam_0
+    21300002: Let's Cook Jam_1
+    21300004: Let's Cook Jam_2
+    21300006: Let's Cook Jam_3
+    21300008: Let's Cook Jam_4
+    21300010: Let's Cook Jam_5
+    21300012: Let's Cook Jam_6
+    21300014: Let's Cook Jam_7
+    21300016: Let's Cook Jam_8
+    21300018: Let's Cook Jam_9
+    21300020: Let's Cook Jam_10
+    21300022: Let's Cook Jam_11
+    21300024: Let's Cook Jam_12
+    21300026: Let's Cook Jam_13
+    21300028: Let's Cook Jam_14
+    21300030: Let's Cook Jam_15
+    21300032: Let's Cook Jam_16
+    21300034: Let's Cook Jam_17
+    21300036: Let's Cook Jam_18
+    21300038: Let's Cook Jam_19
+    21300040: Let's Cook Jam_20
+    21300042: Let's Cook Jam_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Let's Cook Jam_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 467
+        width: 151
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.408943, y: 55.8674}
+        - {x: -64.40894, y: 54.8674}
+        - {x: -64.40894, y: -55.1326}
+        - {x: 64.59106, y: -55.1326}
+        - {x: 65.59106, y: -54.1326}
+        - {x: 65.59106, y: 54.8674}
+        - {x: 64.59106, y: 55.8674}
+    - name: Let's Cook Jam_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 467
+        width: 170
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.69649, y: 53.8674}
+        - {x: 64.69649, y: 55.8674}
+        - {x: -68.30351, y: 55.8674}
+        - {x: -72.30351, y: 35.8674}
+        - {x: -72.30351, y: -20.132599}
+        - {x: -64.30351, y: -55.1326}
+        - {x: 65.69649, y: -55.1326}
+        - {x: 66.69649, y: -54.1326}
+        - {x: 73.69649, y: -0.13259888}
+        - {x: 73.69649, y: 30.867401}
+    - name: Let's Cook Jam_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 467
+        width: 150
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.22525, y: 55.8674}
+        - {x: -64.22525, y: 54.8674}
+        - {x: -64.22525, y: -55.1326}
+        - {x: 64.77475, y: -55.1326}
+        - {x: 64.77475, y: 55.8674}
+    - name: Let's Cook Jam_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 466
+        width: 164
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.11981, y: 61.014374}
+        - {x: -70.11981, y: 60.014374}
+        - {x: -70.11981, y: -57.985626}
+        - {x: -68.11981, y: -59.985626}
+        - {x: 68.88019, y: -59.985626}
+        - {x: 70.88019, y: -57.985626}
+        - {x: 70.88019, y: 60.014374}
+        - {x: 69.88019, y: 61.014374}
+    - name: Let's Cook Jam_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 466
+        width: 164
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.57349, y: 61.014374}
+        - {x: -69.57349, y: 59.014374}
+        - {x: -69.57349, y: -57.985626}
+        - {x: -67.57349, y: -59.985626}
+        - {x: 70.42651, y: -59.985626}
+        - {x: 71.42651, y: -58.985626}
+        - {x: 71.42651, y: 61.014374}
+    - name: Let's Cook Jam_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 176
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.05591, y: 156.82907}
+        - {x: -75.05591, y: 155.82907}
+        - {x: -75.05591, y: -156.17093}
+        - {x: 75.94409, y: -156.17093}
+        - {x: 75.94409, y: 155.82907}
+        - {x: 74.94409, y: 156.82907}
+    - name: Let's Cook Jam_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 47
+        width: 175
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.14058, y: -162.90735}
+        - {x: 75.14058, y: -160.90735}
+        - {x: 75.14058, y: 151.09265}
+        - {x: 74.14058, y: 152.09265}
+        - {x: 66.14058, y: 155.09265}
+        - {x: -5.859421, y: 167.09265}
+        - {x: -30.85942, y: 172.09265}
+        - {x: -47.85942, y: 172.09265}
+        - {x: -49.85942, y: 170.09265}
+        - {x: -49.85942, y: 152.09265}
+        - {x: -73.85942, y: 152.09265}
+        - {x: -74.85942, y: 151.09265}
+        - {x: -74.85942, y: -160.90735}
+        - {x: -72.85942, y: -162.90735}
+        - {x: -50.85942, y: -171.90735}
+        - {x: -25.85942, y: -171.90735}
+        - {x: -11.859421, y: -169.90735}
+        - {x: 17.14058, y: -164.90735}
+        - {x: 17.14058, y: -162.90735}
+    - name: Let's Cook Jam_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 273
+        width: 163
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.105438, y: 78.8786}
+        - {x: -69.10544, y: 48.8786}
+        - {x: -69.10544, y: -77.1214}
+        - {x: 70.89456, y: -77.1214}
+        - {x: 70.89456, y: 47.8786}
+        - {x: 32.89456, y: 78.8786}
+    - name: Let's Cook Jam_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 273
+        width: 163
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.734802, y: 78.8786}
+        - {x: -69.7348, y: 45.8786}
+        - {x: -69.7348, y: -76.1214}
+        - {x: -68.7348, y: -77.1214}
+        - {x: 69.2652, y: -77.1214}
+        - {x: 70.2652, y: -76.1214}
+        - {x: 70.2652, y: 48.8786}
+        - {x: 14.265198, y: 78.8786}
+      - - {x: 10.265198, y: 60.8786}
+        - {x: 9.265198, y: 57.8786}
+        - {x: 9.265198, y: 54.8786}
+        - {x: 10.265198, y: 52.8786}
+        - {x: 16.265198, y: 52.8786}
+        - {x: 16.265198, y: 59.8786}
+        - {x: 14.265198, y: 60.8786}
+    - name: Let's Cook Jam_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 273
+        width: 163
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.782776, y: 57.8786}
+        - {x: 6.782776, y: 55.8786}
+        - {x: 7.782776, y: 57.8786}
+        - {x: 8.782776, y: 61.8786}
+        - {x: 8.782776, y: 78.8786}
+        - {x: -16.217224, y: 78.8786}
+        - {x: -64.217224, y: 49.8786}
+        - {x: -69.217224, y: 44.8786}
+        - {x: -69.217224, y: -77.1214}
+        - {x: 70.782776, y: -77.1214}
+        - {x: 70.782776, y: 46.8786}
+        - {x: 16.782776, y: 59.8786}
+    - name: Let's Cook Jam_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 273
+        width: 164
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.0654907, y: 62.8786}
+        - {x: 5.0654907, y: 60.8786}
+        - {x: 7.0654907, y: 63.8786}
+        - {x: 11.065491, y: 78.8786}
+        - {x: -18.93451, y: 78.8786}
+        - {x: -26.93451, y: 52.8786}
+        - {x: -24.93451, y: 48.8786}
+        - {x: -22.93451, y: 46.8786}
+        - {x: -18.93451, y: 46.8786}
+        - {x: -64.93451, y: 46.8786}
+        - {x: -69.93451, y: 48.8786}
+        - {x: -69.93451, y: -77.1214}
+        - {x: 71.06549, y: -77.1214}
+        - {x: 71.06549, y: 50.8786}
+        - {x: 17.06549, y: 64.8786}
+    - name: Let's Cook Jam_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 162
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.749207, y: -6.808304}
+        - {x: 55.749207, y: 38.191696}
+        - {x: -55.250793, y: 38.191696}
+        - {x: -55.250793, y: -3.8083038}
+        - {x: -46.250793, y: -26.808304}
+        - {x: -39.250793, y: -34.808304}
+        - {x: -12.250793, y: -37.808304}
+        - {x: -9.250793, y: -37.808304}
+        - {x: -0.25079346, y: -27.808304}
+        - {x: -3.2507935, y: -11.808304}
+        - {x: 3.7492065, y: -37.808304}
+        - {x: 16.749207, y: -37.808304}
+        - {x: 20.749207, y: -33.808304}
+        - {x: 21.749207, y: -37.808304}
+        - {x: 51.749207, y: -37.808304}
+    - name: Let's Cook Jam_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 206
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.883362, y: 21.225235}
+        - {x: -20.883362, y: 15.225235}
+        - {x: -33.88336, y: 5.225235}
+        - {x: -33.88336, y: -4.774765}
+        - {x: -26.883362, y: -19.774765}
+        - {x: 30.116638, y: -19.774765}
+        - {x: 35.11664, y: -6.774765}
+        - {x: 35.11664, y: 7.225235}
+        - {x: 8.116638, y: 21.225235}
+    - name: Let's Cook Jam_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 206
+        width: 121
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Let's Cook Jam_14
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 194
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.354614, y: 23.488815}
+        - {x: -39.354614, y: -22.511185}
+        - {x: 35.645386, y: -22.511185}
+        - {x: 40.645386, y: -18.511185}
+        - {x: 40.645386, y: -8.511185}
+        - {x: -9.354614, y: 23.488815}
+    - name: Let's Cook Jam_15
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 187
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.77478, y: 32.01758}
+        - {x: -36.22522, y: 32.01758}
+        - {x: -42.22522, y: 23.017578}
+        - {x: -42.22522, y: -14.982422}
+        - {x: -40.22522, y: -19.982422}
+        - {x: -33.22522, y: -28.982422}
+        - {x: -30.22522, y: -30.982422}
+        - {x: 22.77478, y: -30.982422}
+        - {x: 32.77478, y: -27.982422}
+        - {x: 42.77478, y: -19.982422}
+        - {x: 42.77478, y: 3.0175781}
+    - name: Let's Cook Jam_16
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 158
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.706055, y: 17.779556}
+        - {x: -30.706055, y: 9.779556}
+        - {x: -30.706055, y: -14.220444}
+        - {x: -28.706055, y: -16.220444}
+        - {x: 25.293945, y: -16.220444}
+        - {x: 31.293945, y: -6.2204437}
+        - {x: 31.293945, y: 17.779556}
+    - name: Let's Cook Jam_17
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 123
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.174133, y: 22.923325}
+        - {x: -51.825867, y: -6.0766754}
+        - {x: -51.825867, y: -21.076675}
+        - {x: 33.174133, y: -21.076675}
+        - {x: 53.174133, y: -3.0766754}
+        - {x: 53.174133, y: 19.923325}
+        - {x: 51.174133, y: 22.923325}
+    - name: Let's Cook Jam_18
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 119
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.246033, y: 23.011185}
+        - {x: -6.7539673, y: 23.011185}
+        - {x: -29.753967, y: 3.0111847}
+        - {x: -29.753967, y: -14.988815}
+        - {x: -14.753967, y: -21.988815}
+        - {x: 24.246033, y: -21.988815}
+        - {x: 30.246033, y: -18.988815}
+        - {x: 30.246033, y: 7.0111847}
+        - {x: 29.246033, y: 9.011185}
+    - name: Let's Cook Jam_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 46
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.602234, y: 19.239616}
+        - {x: 46.602234, y: 38.239616}
+        - {x: 13.602234, y: 40.239616}
+        - {x: 7.602234, y: 31.239616}
+        - {x: -16.397766, y: 47.239616}
+        - {x: -48.397766, y: 47.239616}
+        - {x: -55.397766, y: 32.239616}
+        - {x: -55.397766, y: -37.760384}
+        - {x: -50.397766, y: -46.760384}
+        - {x: -27.397766, y: -46.760384}
+        - {x: -12.397766, y: -39.760384}
+        - {x: -7.397766, y: -36.760384}
+        - {x: 3.602234, y: -44.760384}
+        - {x: 8.602234, y: -46.760384}
+        - {x: 20.602234, y: -46.760384}
+        - {x: 21.602234, y: -45.760384}
+        - {x: 37.602234, y: -44.760384}
+        - {x: 55.602234, y: -18.760384}
+    - name: Let's Cook Jam_20
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 40
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.03192, y: 29.621407}
+        - {x: -46.03192, y: -4.3785934}
+        - {x: -46.03192, y: -29.378593}
+        - {x: -2.0319214, y: -29.378593}
+        - {x: 47.96808, y: -0.37859344}
+        - {x: 47.96808, y: 29.621407}
+    - name: Let's Cook Jam_21
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 47
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.039917, y: 21.092651}
+        - {x: -0.960083, y: 24.092651}
+        - {x: -30.960083, y: 24.092651}
+        - {x: -32.960083, y: 21.092651}
+        - {x: -34.960083, y: 11.092651}
+        - {x: -34.960083, y: -13.907349}
+        - {x: -26.960083, y: -22.907349}
+        - {x: -19.960083, y: -23.907349}
+        - {x: 21.039917, y: -23.907349}
+        - {x: 32.039917, y: -21.907349}
+        - {x: 36.039917, y: -19.907349}
+        - {x: 36.039917, y: 8.092651}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
