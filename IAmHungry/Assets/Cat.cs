@@ -5,7 +5,13 @@ public class Cat : MonoBehaviour
 {
 	public float moveSpeed = 5;
 	public float jumpSpeed = 100;
-	public Rigidbody2D rigidbody;
+
+	CatMotor motor;
+
+	void Start()
+	{
+		motor = GetComponent<CatMotor> ();
+	}
 
 	void Update()
 	{
@@ -21,7 +27,8 @@ public class Cat : MonoBehaviour
 		}
 		if (Input.GetKeyDown(KeyCode.Space))
 		{
-			rigidbody.AddForce (new Vector2(0, jumpSpeed * Time.deltaTime), ForceMode2D.Impulse);
+			//rigidbody.AddForce (new Vector2(0, jumpSpeed * Time.deltaTime), ForceMode2D.Impulse);
+			motor.Jump();
 		}
 	}
 }

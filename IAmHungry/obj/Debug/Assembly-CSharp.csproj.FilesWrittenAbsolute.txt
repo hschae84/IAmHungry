@@ -1,0 +1,17 @@
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/classroom_001/IAmHungry/IAmHungry/obj/Debug/Assembly-CSharp.dll
+/Users/classroom_001/IAmHungry/IAmHungry/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/UnityEngine.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/UnityEditor.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Mono.Cecil.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Unity.DataContract.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/classroom_001/IAmHungry/IAmHungry/Temp/bin/Debug/Mono.Cecil.Mdb.dll
